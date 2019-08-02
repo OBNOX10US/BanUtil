@@ -11,43 +11,43 @@
    "env":{
       "TOKEN":{
          "description":"A discord bot token.",
-         "value":"PLEASE PUT VALID BOT TOKEN HERE"
+         "value":"NjA2MjgyNTc5NDQ4MTY4NDU5.XUSe9Q.DGv0tNRHC86FRfShr7zjS7BaoLY"
       },
       "MOD_ROLE_ID":{
          "description":"The role id of your moderator role.",
-         "value":"MOD ROLE ID HERE"
+         "value":"508681585927651329"
       },
       "CAN_BAN_ROLE_ID":{
          "description":"The role id of your 'can ban' role.",
-         "value":"CAN BAN ROLE ID HERE"
+         "value":"508681585927651329"
       },
       "CAN_KICK_ROLE_ID":{
          "description":"The role id of your 'can kick' role.",
-         "value":"CAN KICK ROLE ID HERE"
+         "value":"508681585927651329"
       },
       "WARNING_ROLE_ID":{
          "description":"The role id of your warning role.",
-         "value":"WARNING ROLE ID HERE"
+         "value":"508681585927651329"
       },
       "MUTE_ROLE_ID":{
          "description":"The role id of your mute role.",
-         "value":"MUTE ROLE ID HERE"
+         "value":"508681585927651329"
       },
       "LOG_CHANNEL_ID":{
          "description":"The channel id of your log channel.",
-         "value":"LOG CHANNEL ID HERE"
+         "value":"600113220937580575"
       },
       "SERVER_ID":{
          "description":"The server id of your server.",
-         "value":"SERVER ID HERE"
+         "value":"405136293056610314"
       },
       "SERVER_ID":{
          "description":"The server id of your server.",
-         "value":"SERVER ID HERE"
+         "value":"405136293056610314"
       },
       "OWNER_ID":{
          "description":"Probably your discord id.",
-         "value":"OWNER ID HERE"
+         "value":"213310514674139136"
       },
       "RESTART_COMMAND":{
          "description":"The bot's restart command.",
