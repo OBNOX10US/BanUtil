@@ -1,7 +1,7 @@
 {
-   "name":"BanUtil",
-   "description":"A very simple self hosted moderation bot.",
-   "repository":"https://github.com/MacDue/BanUtil",
+   "name":"Conservative Party",
+   "description":"Moderation BOT",
+   "repository":"https://github.com/OBNOX10US/BanUtil",
    "logo":"https://dueutil.tech/img/BanUtil.png",
    "keywords":[
       "discord",
