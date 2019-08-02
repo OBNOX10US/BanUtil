@@ -11,7 +11,7 @@
    "env":{
       "TOKEN":{
          "description":"A discord bot token.",
-         "value":"NjA2MjgyNTc5NDQ4MTY4NDU5.XUSe9Q.DGv0tNRHC86FRfShr7zjS7BaoLY"
+         "value":"NjA2MjgyNTc5NDQ4MTY4NDU5.XUSo0Q.bnFR8c5Blkh-Xx2GHUqqGfK0Wm8"
       },
       "MOD_ROLE_ID":{
          "description":"The role id of your moderator role.",
